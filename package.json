@@ -1,0 +1,24 @@
+{
+  "name": "@shpaw415/keyboard-manager",
+  "version": "0.0.1",
+  "description": "keyboard-manager for frontend",
+  "main": "./dist/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "keyboard",
+    "frontend",
+    "management"
+  ],
+  "author": "shpaw415",
+  "license": "MIT",
+  "types": "./dist/index.d.ts",
+  "peerDependencies": {},
+  "files": [
+    "/dist",
+    "package.json",
+    "README.md"
+  ]
+}
